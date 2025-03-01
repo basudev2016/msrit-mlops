@@ -1,4 +1,5 @@
 import logging
+## This is a simple comment
 
 # Configure logging to write to a file
 logging.basicConfig(
